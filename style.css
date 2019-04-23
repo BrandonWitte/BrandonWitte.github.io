@@ -1,3 +1,19 @@
 #index{
-	background-color: red;
+	background-color: Aqua;
+}
+
+#projects{
+	background-color: Tomato;
+}
+
+#about{
+	background-color: ForestGreen;
+}
+
+#work{
+	background-color: Linen;
+}
+
+#skills{
+	background-color: Plum;
 }
