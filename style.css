@@ -22,6 +22,6 @@
 	background-color: LightGray;
 }
 
-div a:hover{
-	transform: scale(1.15);
+a:hover{
+	transform: scale(1.55);
 }
