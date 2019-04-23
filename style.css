@@ -17,3 +17,11 @@
 #skills{
 	background-color: Plum;
 }
+
+#navigation{
+	background-color: LightGray;
+}
+
+div a:hover{
+	transform: scale(1.15);
+}
