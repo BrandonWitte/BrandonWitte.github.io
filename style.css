@@ -22,6 +22,9 @@
 	background-color: LightGray;
 }
 
-.navbar a:hover{
-	transform: scale(1.55);
+#profileimage:hover{
+    transform: scale(1.15);
+}
+a:hover{
+	font-size:150%;
 }
