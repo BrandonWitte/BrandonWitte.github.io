@@ -21,10 +21,18 @@
 div{
 	background-color: LightGray;
 }
-
-#profileimage:hover{
-    transform: scale(1.15);
+#profileimage {
+  -webkit-transition: -webkit-transform .8s 
+  ease-in-out;
+  transition: transform .8s ease-in-out;
+  margin: 25px;
+  padding:10px;
 }
+#profileimage:hover{
+	-webkit-transform: rotate(360deg);
+	transform: rotate(360deg) scale(1.15);
+}
+
 a:hover{
 	font-size:150%;
 }
