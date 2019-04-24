@@ -80,6 +80,14 @@ p{
 	margin-top:35px;
 }
 
-#education{
-	margin-top:35px;
+#education {
+    margin-top: 50px;
+}
+
+#resumetitle {
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    width: 50%;
+    border-radius: 5px;
 }
