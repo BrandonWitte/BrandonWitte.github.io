@@ -20,18 +20,21 @@
 
 .navbar{
 	background-color: LightGray;
+	margin-bottom: 30px;
 }
 
 div{
 	background-color: red;
 }
+
 #profileimage {
   -webkit-transition: -webkit-transform .8s 
   ease-in-out;
   transition: transform .8s ease-in-out;
-  margin: 25px;
+  margin: 20px;
   padding:10px;
 }
+
 #profileimage:hover{
 	-webkit-transform: rotate(360deg);
 	transform: rotate(360deg) scale(1.15);
@@ -44,4 +47,14 @@ a:hover{
 span:hover{
 	font-size:150%;
 	color: red;
+}
+
+span{
+	padding:25px;
+	border-radius:10px;
+	background-color: green;
+}
+
+p{
+	margin-top:50px;
 }
