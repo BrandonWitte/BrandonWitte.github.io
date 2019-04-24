@@ -18,8 +18,12 @@
 	background-color: Plum;
 }
 
-div{
+.navbar{
 	background-color: LightGray;
+}
+
+div{
+	background-color: red;
 }
 #profileimage {
   -webkit-transition: -webkit-transform .8s 
