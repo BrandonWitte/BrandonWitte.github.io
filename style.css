@@ -29,27 +29,7 @@ a:hover{
 	font-size:150%;
 }
 
-#abouttitle:hover{
-	font-size:150%;
-	color: red;
-}
-
-#worktitle:hover{
-	font-size:150%;
-	color: red;
-}
-
-#skillstitle:hover{
-	font-size:150%;
-	color: red;
-}
-
-#indextitle:hover{
-	font-size:150%;
-	color: red;
-}
-
-#projectstitle:hover{
+span:hover{
 	font-size:150%;
 	color: red;
 }
