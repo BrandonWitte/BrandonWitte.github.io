@@ -23,8 +23,19 @@
 	margin-bottom: 30px;
 }
 
-div{
-	background-color: red;
+#introdescription {
+    background-color: beige;
+    height: 40%;
+    width: 20%;
+    margin: 25px;
+    padding: 20px;
+    border-radius: 10px;
+    transition: background-color .6s;
+}
+
+#introdescription:hover{
+    background-color:black;
+    color: whitesmoke;
 }
 
 #profileimage {
@@ -34,6 +45,7 @@ div{
   margin-top:25px;
   margin: 20px;
   padding:10px;
+  background-color:red;
 }
 
 #profileimage:hover{
